@@ -1,1 +1,1 @@
-gangjobVersion: '1.0.1'
+Gangjob_Version: '1.0.1'
